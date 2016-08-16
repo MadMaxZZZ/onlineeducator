@@ -58,5 +58,19 @@ body {
   font-family: "Helvetica Neue", Helvetica;
   color: #05E4F0;
   font-weight: 100;
+}
 
+.booyah-box {
+  -moz-box-shadow: 1px 1px 2px 0 #05E4F0;
+  -webkit-box-shadow: 1px 1px 2px 0 #05E4F0;
+  box-shadow: 1px 1px 2px 0 #05E4F0;
+  background: url('body.png');
+  border: 1px solid #ccc;
+  border-color: #05E4F0;
+  padding:10px;
+  border-radius: 10px;
+}
+
+.booyah-box h2, .booyah-box h1 {
+  margin:10px;
 }
