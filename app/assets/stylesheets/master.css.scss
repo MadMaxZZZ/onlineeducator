@@ -30,6 +30,7 @@
 
 h1, h2, h3, h4, h5, h6 .navbar {
   margin: 0;
+  font-weight: 100;
 }
 
 .frosty {
@@ -73,4 +74,8 @@ body {
 
 .booyah-box h2, .booyah-box h1 {
   margin:10px;
+}
+
+.clr {
+  clear:both;
 }
