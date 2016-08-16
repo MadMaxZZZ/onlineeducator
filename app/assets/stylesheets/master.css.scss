@@ -6,7 +6,7 @@
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 200;
   box-shadow: 0px 1px 3px #2a2a2a;
-  background:url('topnavpattern.png');
+  background:url('body.png');
   color: #05E4F0;
   margin:0;
 }
@@ -51,4 +51,12 @@ h1, h2, h3, h4, h5, h6 .navbar {
 
 .btn {
   border-radius: 0;
+}
+
+body {
+  background: url('body.png');
+  font-family: "Helvetica Neue", Helvetica;
+  color: #05E4F0;
+  font-weight: 100;
+
 }
