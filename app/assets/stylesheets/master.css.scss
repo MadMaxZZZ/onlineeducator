@@ -121,3 +121,45 @@ body {
   font-weight: 100;
   font-size:25px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+.section-li {
+  -moz-box-shadow: 1px 1px 2px 0 #05E4F0;
+  -webkit-box-shadow: 1px 1px 2px 0 #05E4F0;
+  box-shadow: 1px 1px 2px 0 #05E4F0;
+  background: url('body.png');
+  border: 1px solid #ccc;
+  border-color: #05E4F0;
+  padding:20px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+ul .header {
+  font-size: 25px;
+}
+
+ul .header .glyphicon {
+  font-size: 20px;
+}
+
+.lessons li {
+  margin: 10px;
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  padding: 8px;
+  font-size: 15px;
+
+}
+
+.lessons li b {
+  font-size:25px;
+  font-weight: 100;
+}
+
+.lessons li p {
+  margin:0;
+}
